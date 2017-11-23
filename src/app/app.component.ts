@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app works!';
+  title = 'Hola Mundo!';
+  description = 'Este es un aplicativo en Angular2 usando un API de Laravel';
 }
